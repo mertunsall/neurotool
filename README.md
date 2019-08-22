@@ -9,8 +9,7 @@ The Jupyter notebook pipelines are really what make Neurotool great! In addition
 
 In the guide_notebooks folder you can see there are three Jupyter Notebook files. Each are prepared to explain every single function coded in Neurotool libraries, so that you can easily understand them and use them in your own systems! For additional information you can always check the comment lines in .py files.
 
-Development
-~~~~~~~~~~~
+## Development
 
 This tool is developed by Mert Unsal under supervision of PhD. Tansel Baran Yasar at ETH Zurich Neuroinformatics Lab. Contributions are more than welcome so feel free to contact me `here <mailmertunsal@gmail.com>`_, open an issue or submit a pull request!
 
