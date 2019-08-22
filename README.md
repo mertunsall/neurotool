@@ -11,7 +11,7 @@ In the guide_notebooks folder you can see there are three Jupyter Notebook files
 
 ## Development
 
-This tool is developed by Mert Unsal under supervision of PhD. Tansel Baran Yasar at ETH Zurich Neuroinformatics Lab. Contributions are more than welcome so feel free to contact me [here](mailmertunsal@gmail.com), open an issue or submit a pull request!
+This tool is developed by Mert Unsal under supervision of PhD. Tansel Baran Yasar at ETH Zurich Neuroinformatics Lab. Contributions are more than welcome so feel free to contact me [here](mailto:mailmertunsal@gmail.com), open an issue or submit a pull request!
 
 To see the code or report a bug, please visit the [GitHub repository](https://github.com/AntonioDaSilva/neurotool).
 
